@@ -329,7 +329,7 @@ export function App() {
                   <div className="relative w-48 h-48 md:w-64 md:h-64 overflow-hidden rounded-xl bg-gradient-to-br from-pink-200 to-red-200">
                     {/* Placeholder romantic image - can be replaced with actual photo */}
                     <img 
-                      src="/image.jpeg"
+                      src="/image.jpg"
                       alt="Our Love"
                       className="w-full h-full object-cover"
                       onError={(e) => {
